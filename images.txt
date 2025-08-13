@@ -5,3 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 mysql:8.0.43-debian
+redis:7.2-alpine
+nginx:1.25
