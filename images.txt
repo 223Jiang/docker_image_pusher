@@ -1,1 +1,2 @@
 minio/minio:RELEASE.2025-04-22T22-12-26Z
+opengauss/opengauss-server:7.0.0-RC3.B025-amd64-openEuler22.03
